@@ -1,0 +1,17 @@
+
+# Fichiers de cache Python
+__pycache__/
+*.pyc
+
+# Données et Cache Hugging Face
+data/
+hf_cache/
+train_data_part1.parquet
+train_data_part2.parquet
+
+# Fichiers de cache Jupyter/Colab
+.ipynb_checkpoints/
+
+# Environnement virtuel local
+.venv/
+venv/
